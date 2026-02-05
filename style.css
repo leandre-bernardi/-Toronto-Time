@@ -1,0 +1,15 @@
+* {
+     box-sizing: border-box;
+ }
+    
+    .colonne {
+      float : left;
+      width : 30%;
+      padding : 10px;
+  }
+   .font {
+     font-family : cursive;
+  }
+     . titre 1{
+          size : 200px;
+     }
